@@ -16,4 +16,4 @@ Features
 - Pandas - for data Analysis & Manipulation
 - Custom logic for question handling and scoring
 
-🔗 Live Demo: [Streamlit App](https://your-streamlit-url.streamlit.app)
+🔗 Live Demo: [Streamlit App](https://quiz-app-rbftxgjfzywxepun6aojck.streamlit.app/)
