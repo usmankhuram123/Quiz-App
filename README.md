@@ -16,4 +16,11 @@ Features
 - Pandas - for data Analysis & Manipulation
 - Custom logic for question handling and scoring
 
+- # Run Streamlit Project - Summary Steps
+1. python -m venv venv - create the virtual Environment
+2. .\venv\Scripts\activate - activate the virtual environment 
+3. pip install streamlit - install the streamlit library
+4. Create a Streamlit code (app.py)
+5. streamlit run app.py(name of pyhon file)
+
 🔗 Live Demo: [Streamlit App](https://quiz-app-rbftxgjfzywxepun6aojck.streamlit.app/)
